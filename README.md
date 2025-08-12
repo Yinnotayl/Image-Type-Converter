@@ -40,6 +40,11 @@ A simple WPF desktop app that lets you quickly convert multiple images to differ
 
 ## Build & Run
 
+**Raw Files**
 1. Open the solution in **Visual Studio**.
 2. Build the project.
 3. Run the application.
+
+**Complete Windows Executable File**
+1. Download the Windows Executable File.
+2. Run the application.
